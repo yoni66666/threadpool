@@ -1,9 +1,3 @@
-/*
-Name: Yoni
-Reviewer: guy
-Description: awaitablepriorityqueue
-*/
-
 package il.co.ilrd.awaitablepriorityqueue;
 
 import java.util.Comparator;
