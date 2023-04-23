@@ -1,9 +1,3 @@
-/**
- * Name: jonathan
- * Reviewer: Bar b
- * Exercise: Thread Pool
- */
-
 package il.co.ilrd.threadpool;
 
 import il.co.ilrd.awaitablepriorityqueue.AwaitablePriorityQueueSemaphore;
