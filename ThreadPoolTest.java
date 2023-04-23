@@ -1,8 +1,3 @@
-/**
- * Name: jonathan
- * Reviewer: Bar
- * Exercise: Thread Pool
- */
 package il.co.ilrd.threadpool;
 import java.util.concurrent.*;
 
